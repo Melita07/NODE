@@ -1,0 +1,15 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "This is just a crashcourse",
+  "main": "app.js",
+  "scripts": {
+    
+    "develop" : "nodemon app.js"
+  },
+  "author": "\"MEl\"",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
